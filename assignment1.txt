@@ -1,0 +1,2 @@
+
+This is a simple PHP program to illustrate the working of operations -- Opening and Closing Files

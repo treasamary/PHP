@@ -1,0 +1,1 @@
+This is a simple PHP program to illustrate the working of the operation --Reading from a file
